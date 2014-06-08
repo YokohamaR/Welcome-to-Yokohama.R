@@ -1,0 +1,10 @@
+Yokohama.R開催の趣旨
+======
+
+Yokohama.R#1の開催時に発表したスライド。
+
+## See also
+
+* [10分で分かるr言語入門ver2.5](http://www.slideshare.net/akiaki5516/10rver25)
+
+
