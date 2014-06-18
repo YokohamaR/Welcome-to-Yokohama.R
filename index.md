@@ -1,5 +1,5 @@
 Yokohama.R開催の趣旨
-========================================================
+=====
 author: 瓜生真也（横浜国立大学大学院環境情報学府）
 date: 2014-06-08
 font-family: 'Helvetica'
@@ -12,9 +12,8 @@ http://yokohamar.github.io/yokohama.r/
 
 [@uribo](http://github.com/uribo)
 
-
 Rとは
-========================================================
+=====
 <img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/r-logo.png" widht="200" align="right"/>
 
 多くの研究分野で使用される統計解析環境ソフト
@@ -24,7 +23,7 @@ Rとは
 多くの論文でRが利用されている。
 
 なぜRを使うのか
-=============
+=====
 
 * **オープンソース**なので、どういう機能を持っているのかがわかりやすい
 * **フリーソフトウェア**。他の統計解析ソフトの多くが高価
@@ -32,8 +31,11 @@ Rとは
 
 ### 研究に必要な統計解析や作図を行ううえで重要
 
+see also... 
+* [Rを薦める100+の理由 - RjpWiki](http://www.okada.jp.org/RWiki/?R%A4%F2%C1%A6%A4%E1%A4%EB100%2B%A4%CE%CD%FD%CD%B3)
+
 Reproducible Research
-===============
+======
 <img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/RR-icon.png" width="200" align="right">
 
 ### 再現可能な研究
@@ -44,17 +46,32 @@ Reproducible Research
 
 解析に使用したデータやスクリプトにより再現性が高まる
 
+useR!
+=======
+
+<img src="https://raw.githubusercontent.com/YokohamaR/yokohama.r/master/images/useRIcon.png" width="200" align="right">
+
+世界各地にR利用者のコミュニュティが存在する
+
+e.g. `Tsukuba.R`, `Tokyo.R`, `RLyon`, `LondonR`, `South Florida useR Group`
+
+### 2014年６月現在、141のグループ
+
+> http://blog.revolutionanalytics.com/local-r-groups.html
+
+
 Yokohama.Rの目的
 ============
 
 <img src="https://raw.githubusercontent.com/YokohamaR/yokohama.r/master/images/yokohamarIcon.png" width="200" align="right">
 
-論文や研究発表で使う統計やプレゼンテーションの作図により、研究成果や自分の情報を上手に伝えられることを目指す
+* 自らのデータを解析する際に必要な統計等に関する知識を学ぶ
+* 再現性のある研究(Reproducible Research)、を可能にする
+* 研究発表、学術論文で使用できる図を作成する
 
 ### 名前の由来
 
-Tsukuba.R, Tokyo.R, Osaka.Rという感じで、各地域にRユーザーのコミュニュティがある。
-横浜なのでYokohama.R（R一般ではなく、生態学に偏った内容の会なので**横浜R道場**という名称も使用中）
+横浜なので**Yokohama.R**（R一般ではなく、生態学に偏った内容の会なので**横浜R道場**という名称も使用中）
 
 
 
