@@ -31,6 +31,8 @@ Rとは
 
 ### 研究に必要な統計解析や作図を行ううえで重要
 
+Rを使うべきx個の理由（あとで話します）
+
 see also... 
 * [Rを薦める100+の理由 - RjpWiki](http://www.okada.jp.org/RWiki/?R%A4%F2%C1%A6%A4%E1%A4%EB100%2B%A4%CE%CD%FD%CD%B3)
 
@@ -51,13 +53,26 @@ useR!
 
 <img src="https://raw.githubusercontent.com/YokohamaR/yokohama.r/master/images/useRIcon.png" width="200" align="right">
 
-世界各地にR利用者のコミュニュティが存在する
+Rを０からはじめるのも**大変**
+... ちょーさ、ろんぶん、とうけい...LoL
+
+-> 世界各地にR利用者のコミュニュティが存在する✨
 
 e.g. `Tsukuba.R`, `Tokyo.R`, `RLyon`, `LondonR`, `South Florida useR Group`
 
 ### 2014年６月現在、141のグループ
 
 > http://blog.revolutionanalytics.com/local-r-groups.html
+
+Google先生？
+=======
+
+-> もっと近くに
+
+みんなで勉強することで新たな発見があるかも...
+
+教える、伝えることは第一の勉強
+
 
 
 Yokohama.Rの目的
