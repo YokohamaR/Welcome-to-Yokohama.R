@@ -1,7 +1,7 @@
 Yokohama.R開催の趣旨
 =====
 author: 瓜生真也（横浜国立大学大学院環境情報学府）
-date: 2014-06-08
+date: June 30, 2014
 font-family: 'Helvetica'
 autosize: true
 css: custom.css
@@ -9,8 +9,6 @@ css: custom.css
 ⚓️Welcome to Yokohama.R⛵️
 
 http://yokohamar.github.io/yokohama.r/
-
-[@uribo](http://github.com/uribo)
 
 Rとは
 =====
@@ -29,7 +27,7 @@ Rとは
 * **フリーソフトウェア**。他の統計解析ソフトの多くが高価
 * **パッケージ**と呼ばれる拡張機能により、多くの機能を増やせる
 
-### 研究に必要な統計解析や作図を行ううえで重要
+#### 研究に必要な統計解析や作図を行ううえで重要
 
 Rを使うべきx個の理由（あとで話します）
 
@@ -40,7 +38,7 @@ Reproducible Research
 ======
 <img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/RR-icon.png" width="200" align="right">
 
-### 再現可能な研究
+#### 再現可能な研究
 
 * **objectivity 客観性**
 * **clearly 明瞭性**
@@ -60,35 +58,37 @@ Rを０からはじめるのも**大変**
 
 e.g. `Tsukuba.R`, `Tokyo.R`, `RLyon`, `LondonR`, `South Florida useR Group`
 
-### 2014年６月現在、141のグループ
+#### 2014年６月現在、141のグループ
 
 > http://blog.revolutionanalytics.com/local-r-groups.html
 
 Google先生？
 =======
 
--> もっと近くに
+#### -> もっと近くに
 
 みんなで勉強することで新たな発見があるかも...
 
-教える、伝えることは第一の勉強
+教える、伝えることは第一の勉強（**参加者の方にも発表**をお願いします）
 
-
+* ここがわからん
+* 綺麗な図が描けた
+* 面白い関数・パッケージを見つけた
+* 話題提供
 
 Yokohama.Rの目的
 ============
 
+1. 自らのデータを解析する際に必要な統計等に関する知識を学ぶ
+2. 再現性のある研究(Reproducible Research)、を可能にする
+3. 研究発表、学術論文で使用できる図を作成する
+
 <img src="https://raw.githubusercontent.com/YokohamaR/yokohama.r/master/images/yokohamarIcon.png" width="200" align="right">
 
-* 自らのデータを解析する際に必要な統計等に関する知識を学ぶ
-* 再現性のある研究(Reproducible Research)、を可能にする
-* 研究発表、学術論文で使用できる図を作成する
 
-### 名前の由来
+#### 名前の由来
 
 横浜なので**Yokohama.R**（R一般ではなく、生態学に偏った内容の会なので**横浜R道場**という名称も使用中）
-
-
 
 ======
 class: notice
@@ -98,4 +98,6 @@ Enjoy R🍺🍺🍺
 
 http://yokohamar.github.io/yokohama.r/
 
-<img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/r-logo.png" width="400">
+<img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/r-logo.png" width="260">
+
+... ではRをインストールして手を動かしてみよう♨️
