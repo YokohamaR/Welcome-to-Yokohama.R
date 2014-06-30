@@ -1,7 +1,7 @@
 Yokohama.R開催の趣旨
 =====
 author: 瓜生真也（横浜国立大学大学院環境情報学府）
-date: June 30, 2014
+date: June 30, 2014 @ Yokohama.R#1
 font-family: 'Helvetica'
 autosize: true
 css: custom.css
@@ -10,7 +10,7 @@ css: custom.css
 
 http://yokohamar.github.io/yokohama.r/
 
-Rとは
+What's R
 =====
 <img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/r-logo.png" widht="200" align="right"/>
 
@@ -20,10 +20,10 @@ Rとは
 
 多くの論文でRが利用されている。
 
-なぜRを使うのか
+Why use R?
 =====
 
-* **オープンソース**なので、どういう機能を持っているのかがわかりやすい
+* **オープンソース**なので、どういう機能を持っているのか、どういう計算をしているのかがわかる
 * **フリーソフトウェア**。他の統計解析ソフトの多くが高価
 * **パッケージ**と呼ばれる拡張機能により、多くの機能を増やせる
 
@@ -34,20 +34,59 @@ Rを使うべきx個の理由（あとで話します）
 see also... 
 * [Rを薦める100+の理由 - RjpWiki](http://www.okada.jp.org/RWiki/?R%A4%F2%C1%A6%A4%E1%A4%EB100%2B%A4%CE%CD%FD%CD%B3)
 
-Reproducible Research
-======
-<img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/RR-icon.png" width="200" align="right">
+Statistics + R = Powerful
+=====
 
-#### 再現可能な研究
+<img src="https://github.com/YokohamaR/yokohama.r/wiki/src/images/r-books.jpg" width=600>
 
-* **objectivity 客観性**
-* **clearly 明瞭性**
-* **properly 妥当性**
+Rを使いながら統計を勉強することが可能
 
-解析に使用したデータやスクリプトにより再現性が高まる
+R graphic is beautiful
+=====
+
+こんな図やあんな図や...
+
+
+
+
+   
+
+
+<img src="http://38.media.tumblr.com/addbb3c55b28e9e085fb7f03a9870e84/tumblr_n7xolbf6ow1tfg8aqo1_1280.png" width=300, align=right>
+
+<img src="http://37.media.tumblr.com/073cf98e8bcc4bd55ae7dddc0133add6/tumblr_n7xote5tTi1tfg8aqo1_1280.png" width=300, align=right>
+
+<img src="http://37.media.tumblr.com/0b391a31f6473e78f57b4f5eb5a4425c/tumblr_n7xoqzacPS1tfg8aqo2_1280.png" width=300>
+
+もしRがなかったら...
+=====
+
+> Aさん「研究のために統計解析をしたいのだけど...（どうするの?）」
+
+> Aさん「」
+
+> Aさん「...Excel?」
+
+<img src="https://github.com/YokohamaR/yokohama.r/wiki/src/images/view-data-on-excel.png" width=600>
+
+統計解析のソフトはいくつかあるけど、高価なものばかり
+（SPSS, SAS）
+
+もしRがなかったら...
+=====
+
+> Bさん「実験結果を図示したい」
+
+> Bさん「とりあえずExcelで作るか」
+
+> Cさん「曲線回帰してみてよ」
+
+> Bさん「」
+
+-> Rを使いましょう！👍
 
 useR!
-=======
+======
 
 <img src="https://raw.githubusercontent.com/YokohamaR/yokohama.r/master/images/useRIcon.png" width="200" align="right">
 
@@ -62,8 +101,26 @@ e.g. `Tsukuba.R`, `Tokyo.R`, `RLyon`, `LondonR`, `South Florida useR Group`
 
 > http://blog.revolutionanalytics.com/local-r-groups.html
 
+Reproducible Research
+======
+<img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/RR-icon.png" width="200" align="right">
+
+#### 再現可能な研究
+
+* **objectivity 客観性**
+* **clearly 明瞭性**
+* **properly 妥当性**
+
+解析に使用したデータやスクリプトを繰り返し使用することで研究自体の再現性が高まる
+
+#### GitHub上にスクリプトを残しています
+
+今日のスクリプトは
+
+> http://git.io/Ch1LzQ
+
 Google先生？
-=======
+======
 
 #### -> もっと近くに
 
@@ -77,7 +134,7 @@ Google先生？
 * 話題提供
 
 Yokohama.Rの目的
-============
+=====
 
 1. 自らのデータを解析する際に必要な統計等に関する知識を学ぶ
 2. 再現性のある研究(Reproducible Research)、を可能にする
@@ -96,8 +153,10 @@ class: notice
 🍺🍺🍺
 Enjoy R🍺🍺🍺
 
-http://yokohamar.github.io/yokohama.r/
+https://github.com/YokohamaR/yokohama.r
 
 <img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/r-logo.png" width="260">
 
 ... ではRをインストールして手を動かしてみよう♨️
+
+-> http://yokohamar.github.io/introduction-to-r/index.html#/

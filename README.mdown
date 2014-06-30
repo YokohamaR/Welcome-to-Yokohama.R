@@ -1,7 +1,52 @@
 Yokohama.R開催の趣旨
 ======
 
+⚓️Welcome to Yokohama.R⛵️
+
 Yokohama.R#1の開催時に発表したスライド。
+
+* * *
+
+## What's R
+
+「R」とは多くの研究分野で使用される統計解析環境ソフトです。結果の図示（**作図**）や**統計解析**に強く、多くの論文でRが利用されています。
+
+## Why use R?
+
+* **オープンソース**なので、どういう機能を持っているのか、どういう計算をしているのかがわかる
+* **フリーソフトウェア**。他の統計解析ソフトの多くが高価
+* **パッケージ**と呼ばれる拡張機能により、多くの機能を増やせる
+
+### 研究に必要な統計解析や作図を行ううえで重要
+
+see also... 
+* [Rを薦める100+の理由 - RjpWiki](http://www.okada.jp.org/RWiki/?R%A4%F2%C1%A6%A4%E1%A4%EB100%2B%A4%CE%CD%FD%CD%B3)
+
+Reproducible Research
+======
+<img src="https://raw.githubusercontent.com/uribo/rep-res-guideline/master/src/RR-icon.png" width="200" align="right">
+
+### 再現可能な研究
+
+* **objectivity 客観性**
+* **clearly 明瞭性**
+* **properly 妥当性**
+
+解析に使用したデータやスクリプトを繰り返し使用することで研究自体の再現性が高まる
+
+### GitHub上にスクリプトを残しています
+
+今日のスクリプトは
+
+http://git.io/Ch1LzQ
+
+をご覧ください
+
+## Yokohama.Rの目的
+
+1. 自らのデータを解析する際に必要な統計等に関する知識を学ぶ
+2. 再現性のある研究(Reproducible Research)、を可能にする
+3. 研究発表、学術論文で使用できる図を作成する
 
 ## See also
 
